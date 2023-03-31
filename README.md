@@ -7,6 +7,11 @@ You can modify the code to generate OTPs of different lengths or add additional 
 
 # How To Use
 * Clone this repository `git clone <repo link>`
-* Run `npm install express.js` to install Express JS
-* Run `npm install cors` to install CORS
-* Check it out using `node server.js`
+* Run `npm install express.js` to install Express JS.
+* Run `npm install cors` to install CORS.
+* Check it out using `node server.js`.
+
+## Usage
+
+Visit [http://localhost:4200](http://localhost:4200) in your browser.
+
