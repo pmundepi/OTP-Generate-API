@@ -13,5 +13,5 @@ You can modify the code to generate OTPs of different lengths or add additional 
 
 ## Usage
 
-Visit [http://localhost:4200](http://localhost:4200) in your browser.
+Visit [http://localhost:4200/generateOTP](http://localhost:4200/generateOTP) in your browser.
 
